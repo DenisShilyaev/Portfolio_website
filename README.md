@@ -1,8 +1,11 @@
 # Сайт визитка
-Мой небольшой проект. 
+Мой небольшой проект.
+
+## Инструкция
+Чтобы запустить проект откройте файл: ... / Portfolio_website / index.htmll в любом браузере.
 
 ## Скриншот:
 
-![PSD](https://github.com/DenisShilyaev/LANDING_PAGE1/raw/master/source/Fudi.jpg)
+![Screenshot](https://github.com/DenisShilyaev/Portfolio_website/raw/master/for_README/Screenshot.png)
 
 Если Вы нашли ошибку или у Вас есть предложение по улучшению проекта, то, пожалуйста, напишите мне.
